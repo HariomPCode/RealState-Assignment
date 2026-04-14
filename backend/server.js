@@ -13,7 +13,7 @@ connectDB();
 // Middleware
 app.use(
   cors({
-    origin: "https://real-state-assignment-vrzg.vercel.app/",
+    origin: "https://real-state-assignment-beta.vercel.app",
     credentials: true,
   }),
 );
